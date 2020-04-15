@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+//testing the way to push using atom
+
 
 typedef struct event_details   // struct that contains a 100 count character array that will be used to store data for each event
 {
